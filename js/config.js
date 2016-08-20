@@ -13,7 +13,7 @@ var l_serverImage = "";
 
 /*Custom server name configuration
 Leave it blank for automatic server name*/
-var l_serverName = "NekoCore Pointshop 2 Server";
+var l_serverName = "NekoCore Jailbreak Server";
 
 /*Use a video for the background?
 Otherwise it will just use images*/
@@ -106,7 +106,7 @@ var l_musicPlaylist = [
 	{youtube: "r605IIE4Zvg", name: "Snail's House - First Love"},
 	{youtube: "hz5lOilAqlQ", name: "Snail's House - My Story"},
 	{youtube: "A29USr0jFqs", name: "Snail's House - Kirara"},
-	{youtube: "ks2hGA1yV3Q", name: "Snail's House - Grape Soda"}
+	{youtube: "ks2hGA1yV3Q", name: "Snail's House - Grape Soda"},
 	{youtube: "UlhOusGdMVA", name: "Steven Universe Soundtrack - Mirror Match"},
 	{youtube: "kEoiM7r3mLU", name: "The Girl - Hellberg"}
 ];
